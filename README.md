@@ -11,5 +11,5 @@ Graduada em **Sistemas para Internet** e formada como **Programadora de Sistemas
 
 
 📬 **Como me encontrar:**
-* **LinkedIn:** [https://www.linkedin.com/in/milene-corr%C3%AAa-542281337/]
-* **E-mail:** [milene082@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/milene-corr%C3%AAa-542281337/
+* **E-mail:** milene082@gmail.com
